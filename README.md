@@ -20,7 +20,6 @@ qa-rpa-flow-orangehrm/
 │   ├── screenshots/             # Cypress Screenshots
 │   └── cypress.config.js        # Cypress configuration
 │
-├── node_modules/                # Installed node modules
 ├── ui-tests/                    # UI Testing Resources
 ├── .gitignore                   # Git ignore file
 ├── README.md                    # This file
