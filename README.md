@@ -84,7 +84,7 @@ Abre el archivo en tu navegador para visualizarlo.
 QA Automation Engineer  
 📧 ccdelgado@outlook.es  
 📍 Colombia  
-🌐 [GitHub](https://github.com/Crisweisk) · [LinkedIn](https://www.linkedin.com/in/cristian-delgado-6bb653233/)
+🌐 [GitHub](https://github.com/Crisweisk) · [LinkedIn](https://www.linkedin.com/in/Hyokenhi/)
 
 ---
 
